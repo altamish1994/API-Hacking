@@ -36,9 +36,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34c4e8568a750fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce7beecb89e5e69c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78ddffd2ed6833c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2- Authorization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1eecdc40578a8cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Burp Extensions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -104,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools.md",
+                "file": "Burp Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools.md",
+                "file": "Burp Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools.md"
+                "file": "Burp Extensions.md"
               }
             }
           }
@@ -165,8 +213,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34cb6130de0922ef",
+  "active": "d1eecdc40578a8cf",
   "lastOpenFiles": [
-    "Tools.md"
+    "3- Authentication.md",
+    "Tools.md",
+    "Pasted image 20230902025819.png",
+    "2- Authorization.md",
+    "Installations.md",
+    "Burp Extensions.md",
+    "1- Enumerating/Observations.md",
+    "1- Enumerating/Tools.md",
+    "1- Enumerating"
   ]
 }
